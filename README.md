@@ -99,3 +99,5 @@ ChatGPT was used to support code review, debugging and documentation, including 
 The aim was to build a practical reader-facing tool that combines petrol-price comparisons with information about data freshness.
 
 The analysis showed that reporting age can materially affect local price comparisons. The interactive gives readers the ability to explore that difference themselves, rather than presenting the cheapest reported price without context.
+
+**Live interactive:** https://petrol-price-reality-check.streamlit.app
